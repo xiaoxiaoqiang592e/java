@@ -1,5 +1,8 @@
 package com.javakc.test.bean;
 
+/**
+ *
+ */
 public class User {
     private int age ;
     private  int id ;
